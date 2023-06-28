@@ -1,6 +1,6 @@
 <h1 align='center'>Hi 👋, I'm Aris Zacky</h1>
 
-<h4 align='center'>Currently studying at Politeknik Negeri Bali</h4>
+<h3 align='center'>Currently studying at Politeknik Negeri Bali</h3>
 
 - 🔭 I’m currently working on Website Development
 - 🌱 I’m currently learning Laravel, Flutter, Python, Data Analyst
