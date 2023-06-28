@@ -3,6 +3,7 @@
 <h3 align='center'>Currently studying at Politeknik Negeri Bali</h3>
 
 - 🔭 I’m currently working on Website Development
+- ✨ I’m currently interested on Data Analyst and Data Administrator
 - 🌱 I’m currently learning Laravel, Flutter, Python, Data Analyst
 - 👯 I’m looking to collaborate on Website Project
 - 🤔 I’m looking for help with Programming Master, hehe
